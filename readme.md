@@ -40,8 +40,8 @@ This project implements a **Centralized Computing Server (CCS)** that provides *
 ---
 
 ## **Example of Usage**
-1. Starting a server with a <port>
-2. Starting a client with the same <port>
+1. Starting a server with a "port"
+2. Starting a client with the same "port"
 ![Example of Starting](SKJ_s31722_ENG_project2/SKJ_s31722_ENG_project2/screensOfUsage/ClientStart.png)
 3. See Server output below:
 ![Example of response from server](SKJ_s31722_ENG_project2/SKJ_s31722_ENG_project2/screensOfUsage/ServerOutput.png)
